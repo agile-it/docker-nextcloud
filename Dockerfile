@@ -1,3 +1,3 @@
 FROM nextcloud:17
 
-ADD proxy.config.php /var/www/html/config/
+ADD proxy.config.php /usr/src/nextcloud/config/
